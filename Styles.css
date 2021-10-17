@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+body{
+  
+  background-image: url(./images/pattern-background-mobile.svg);
+  background-position: center:
+
+  
+}
+  
+.order-image-first{
+  margin: 30px;
+  border-radius:25px 25px 0 0;
+  width:90%;
+  
+}
+.order-text-content{
+  text-align: center;
+  background-color: #fff;
+  margin-top: -33px;
+  width: 370px;
+  margin-left:30px;
+  padding-top: 40px;
+  border-radius: 0 0 6% 6%;
+}
+.h1-top{
+  padding-bottom: 40px;
+}
+
+
+.order-section{
+  padding: 15px;
+}
+.order-section-middle{
+  background: #d8d5d8;
+  width: 65%;
+  margin-left: 50px;
+  border-radius: 5px;
+  display: flex;
+  padding: 15px;
+}
+.change a{
+ padding-bottom:25px;
+ display: inline-block;
+}
+  
+.two{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.annual-plan {
+  color:#333535;
+  font-weight: bold;
+  
+}
+.button{
+  background:#144EEB;
+  color: #fff;
+  border-radius:9px;
+  margin-top: 30px;
+  padding: 15px 65px;
+  font-weight: bold; 
+  border: none;
+  
+}
+.last-button{
+  font-weight: bold;
+  margin: 40px;
+  text-align: center;
+  background: #fff;
+  border: none;
+  font-size: 20px;
+  color: #b1b1b1
+}
+.footer{
+  margin-top: 20px;
+}
+.my-footer{
+  background: #144EEB;
+  padding: 7px 14px;
+  border:none;
+  color: #ffb;
+  border-radius: 5px;
+  margin-top: 7px;
+}
+.my-footer:hover,
+.my-footer:active{
+  background: #ffb;
+  padding: 7px 14px;
+  border:none;
+  color: #144EEB;
+  border-radius: 5px;
+}
+.attribution{
+  text-align:center;
+}
